@@ -1,4 +1,4 @@
-# sistem-informasi dan-antrian-rumah-sakit
+# sistem-informasi PAK KEMAS
 
 ## Instalasi (php)
 1. Download aplikasi ini
@@ -8,6 +8,6 @@
 5. Klik ```rs_kdcw``` di ```phpmyadmin``` lalu klik import kemudian pilih file di folder project yang telah Anda extract ```database/rs_kdcw.sql``` lalu klik tombol OK atau GO
 6. Akses di browser ```localhost/nama_folder_project_ini```
 7. Silakan login :
-    > user : rohim <br>
-    > pass : 5918
+    > user : miftah <br>
+    > pass : 1234
 8. Sekian Dan Terimakasih
